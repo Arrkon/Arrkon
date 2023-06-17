@@ -3,5 +3,5 @@ I’m @Arrkon.
 I'm a programmer and game developer.
 
 Find me at:
-  [My Portfolio](http://www.roryconlon.ca)
+  [My Portfolio](http://www.roryconlon.ca) or
   [YouTube](https://www.youtube.com/channel/UCL7MeR6aXvpsAdOT1WNaEgw)
